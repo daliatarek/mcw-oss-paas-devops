@@ -17,6 +17,8 @@ var app = express();
 
 
 
+
+
 var databaseUrl = 'mongodb://best-for-you-db-v-datare:qVlo13cyPXiEsKVsPrRZv9aQbJrnePyulaVZb6QPRWw6TD6xg9UeUOndAmACCktlsT284sTqi7Rnq4ygYJz8Cw==@best-for-you-db-v-datare.documents.azure.com:10255/best-for-you-db-v-datare?ssl=true&replicaSet=globaldb';
 
 var mongoose = require('mongoose');
